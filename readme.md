@@ -4,7 +4,7 @@
 
 ## 0. Techniques in AutoML
 
-
+- [Techniques for Automated Machine Learning](https://arxiv.org/pdf/1907.08908.pdf)
 
 ## 1. Papers
 
@@ -96,19 +96,19 @@
 ## 2. Frameworks
 
 - Open Source
-  - 2013 [AutoWEKA](https://github.com/automl/autoweka)  [Paper](https://www.cs.ubc.ca/labs/algorithms/Projects/autoweka/papers/16-599.pdf)
-  - 2014 [Hyperopt-Sklearn](https://github.com/hyperopt/hyperopt-sklearn) [Paper](https://conference.scipy.org/proceedings/scipy2014/pdfs/komer.pdf)
-  - 2015 [Auto-Sklearn](https://github.com/automl/auto-sklearn)  [Paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/11d0e6287202fced83f79975ec59a3a6-Paper.pdf)
-  - 2016 [TPOT](https://github.com/EpistasisLab/tpot)  [Paper](https://link.springer.com/chapter/10.1007/978-3-319-31204-0_9)
+  - 2013 [AutoWEKA](https://github.com/automl/autoweka)  [[Paper]](https://www.cs.ubc.ca/labs/algorithms/Projects/autoweka/papers/16-599.pdf)
+  - 2014 [Hyperopt-Sklearn](https://github.com/hyperopt/hyperopt-sklearn) [[Paper]](https://conference.scipy.org/proceedings/scipy2014/pdfs/komer.pdf)
+  - 2015 [Auto-Sklearn](https://github.com/automl/auto-sklearn)  [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2015/file/11d0e6287202fced83f79975ec59a3a6-Paper.pdf)
+  - 2016 [TPOT](https://github.com/EpistasisLab/tpot)  [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-31204-0_9)
   - 2017 [MLBox](https://github.com/AxeldeRomblay/MLBox)
   - 2018 [Transmogrif AI](https://github.com/salesforce/TransmogrifAI) 
-  - 2018 [ATM](https://github.com/HDI-Project/ATM)  [Paper](https://dai.lids.mit.edu/wp-content/uploads/2018/02/atm_IEEE_BIgData-9-1.pdf)
+  - 2018 [ATM](https://github.com/HDI-Project/ATM)  [[Paper]](https://dai.lids.mit.edu/wp-content/uploads/2018/02/atm_IEEE_BIgData-9-1.pdf)
   - 2019 [NNI](https://github.com/microsoft/nni) 
   - 2019 [Mljar](https://github.com/mljar/mljar-supervised) 
-  - 2020 [AutoGluon](https://github.com/autogluon/autogluon)  [Paper](https://arxiv.org/pdf/2003.06505.pdf)
-  - 2020 [H2O AutoML](https://github.com/h2oai/h2o-3)  [Paper](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf)
-  - 2021 [FLAML](https://github.com/microsoft/FLAML)  [Paper](https://proceedings.mlsys.org/paper_files/paper/2021/file/1ccc3bfa05cb37b917068778f3c4523a-Paper.pdf)
-  - 2021 [LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML)  [Paper](https://arxiv.org/pdf/2109.01528.pdf)
+  - 2020 [AutoGluon](https://github.com/autogluon/autogluon)  [[Paper]](https://arxiv.org/pdf/2003.06505.pdf)
+  - 2020 [H2O AutoML](https://github.com/h2oai/h2o-3)  [[Paper]](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf)
+  - 2021 [FLAML](https://github.com/microsoft/FLAML)  [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2021/file/1ccc3bfa05cb37b917068778f3c4523a-Paper.pdf)
+  - 2021 [LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML)  [[Paper]](https://arxiv.org/pdf/2109.01528.pdf)
   - 2021 [AutoX](https://github.com/4paradigm/AutoX/)
   - 2020 [AutoDL](https://github.com/DeepWisdom/AutoDL) automl for deep learning
   - 2019 [Auto-PyTorch](https://github.com/automl/Auto-PyTorch)  [Paper](https://arxiv.org/abs/2006.13799) backend with pytorch
@@ -152,6 +152,9 @@
 
 ## 4. Books & Slides
 
+- 2023 [A Decade of AutoML: Reflections and the Road Ahead](https://www.automl.org/wp-content/uploads/2023/08/2023_KDD_Test_of_Time_Award_AutoWEKA.pdf)
+- 2023 [AutoML: Replacing Data Scientists?](https://www.automl.org/wp-content/uploads/2022/11/Oldenburg_-AutoML_-Replacing-Data-Scientists_.pdf)
+- 2022 [The AutoML Landscape](https://www.automl.org/wp-content/uploads/2022/10/AutoML-Landscape.pdf)
 - 2021 [AutoML: A Perspective where Industry Meets Academy](https://joneswong.github.io/KDD21AutoMLTutorial/materials/slides.pdf) 
 - 2020 [Automated Machine Learning in Action](https://www.manning.com/books/automated-machine-learning-in-action)
 - 2019 [Automated Machine Learning Methods, Systems, Challenges](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf) 
